@@ -1,6 +1,76 @@
-/*--Parte 1--*/
-/*--Parte 1--*/
-/*--Parte 2--*/
-/*--Parte 2--*/
-/*--Parte 3--*/
-/*--Parte 3--*/
+/*parte 3*/
+.titulo{
+	font-family: Lato light;
+	color:#74a3db;
+	font-size: 30px;
+
+}
+
+.logo{
+	margin-top: -40px;
+	margin-left: 200px;
+}
+
+.banner{
+	width: 100%;
+}
+
+
+.white{
+	color:white;
+	margin-left: 15px;
+}
+
+.container-bg{
+	background-color:#74a3db;
+	text-align: center;
+}
+
+.black{
+	background-color: #2a3541;
+	text-align: left;
+
+}
+
+.blue{
+	color:blue;
+	margin-left: 15px;
+}
+
+.texto{
+	color:white;
+	text-align: center;
+	margin-left: 450px;
+}
+
+.text-right{
+	font-size: 15px;
+}
+
+.fa{
+	color:#2d6093;
+	padding: 1% 2%;
+	border:1px solid #2d6093;
+	border-radius: 50%;
+	margin-right:3%;
+	font-size: 20px;
+	margin-bottom:2%;
+	margin-top: 20px;
+}
+
+.celeste{
+	color:#7ebcff;
+}
+
+p{
+	color: black;
+}
+
+.container-bg input{
+border-radius: 6px;
+color:white;
+background-color:#74a3db;
+margin-top: 40px;
+font-size: 20px;
+}
+/*parte3*/
