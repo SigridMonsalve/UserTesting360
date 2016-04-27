@@ -53,9 +53,7 @@
 	margin-left: 30px;
 }
 .servicios h1{
-	color: #8aafff;
-	font-family: Lato;
-	font-size: 25px;
+	color: #68B4FF;
 	margin-top: 50px;
 	margin-bottom:100px;
 	text-align: center;
@@ -64,13 +62,16 @@
 	font-size: 30px;
 	color: #8aafff;
 	margin-top: 40px;
-	margin-left: 130px;
+	margin-left: 80px;
+	padding:50px;
+	border-radius:100%;
+	box-shadow: -3px 5px 5px #E9E6E6;
 }
 .servicios h2{
-	font-size: 15px;
+	font-size:20px;
 	text-align: center;
 	color: #7f98b1;
-	margin-top: 50px;
+	margin-top: 65px;
 }
 .servicios p{
 	font-size: 12px;
@@ -79,17 +80,112 @@
 
 }
 /*--Parte 1--*/
-
-
+/*--Parte 2--*/
+*{
+	font-family:"Lato", sans-serif;
+}
+.ejemplo .col-md-12{
+	border-bottom:1px solid LightGrey;
+}
+.ejemplo .col-md-12,.loQuiero .col-md-12{
+	margin-top:4%;
+	margin-bottom:4%;
+}
+.separadorUno,.separadorDos{
+	position:relative;
+	display:inline-block;
+	left:47.5%;
+	bottom:65px;
+}
+.separadorUno{
+	bottom:45px;
+}
+.ejemplo iframe{
+	width:100%;
+	height:320px;
+}
+.ejemplo p{
+	font-size:18px;
+}
+.segundoP{
+	margin-top:15px;
+}
+.ejemplo h1{
+	font-size:2.8em;
+	padding:0 20px 20px 20px;
+	color:#68B4FF;
+	margin-top:0px;
+}
+.ejemplo h1 img{
+	width:60%;
+}
+#centrado{
+	margin:0 auto;
+	width:130px;
+}
+.bg-loQuiero{
+	background:url(../image/sec-2.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center center;
+	padding:0;
+}
+.bg-loQuiero div{
+	background:rgba(49,49,49,0.7);
+	height:480px;
+}
+.border-tb{
+	border-top:1px solid LightGrey;
+	border-bottom:1px solid LightGrey;
+}
+.loQuiero span{
+	background-color:#50BDEA;
+	border-radius:100%;
+	font-size:25px;
+	padding:10px;
+	color:white;
+	vertical-align:top;
+	margin-top:10px;
+	display:inline-block;
+}
+.cont-bg{
+	padding-bottom:3%;
+}
+.cont-bg h2{
+	margin-bottom:20px;
+}
+.cont-bg,.cont-bg h2{
+	padding-left:7%;
+}
+.cont-bg h4{
+	color:#7FB4FF;
+}
+.margin,.cont-bg h2{
+	width:85%;
+	margin-left:5%;
+	display:inline-block;
+}
+.loQuiero ul{
+	padding-left: 15px;
+}
+.separadorDos img,.separadorUno img{
+	width:80px;
+	display:inline-block;
+	position:absolute;
+}
+.loQuiero .especial {
+	vertical-align:300%;
+}
+/*--Parte 2--*/
 /*parte 3*/
 .titulo{
-	font-family: Lato light;
 	color:#74a3db;
 	font-size: 30px;
 
 }
-.logo{
-	margin-top: -40px;
+.logoDos{
+	width:50%;
+	margin-top: -60px;
 	margin-left: 200px;
 }
 .banner{
@@ -106,10 +202,9 @@
 .black{
 	background-color: #2a3541;
 	text-align: left;
-
 }
 .blue{
-	color:blue;
+	color:#337ab7;
 	margin-left: 15px;
 }
 .texto{
@@ -131,7 +226,7 @@
 	margin-top: 20px;
 }
 .celeste{
-	color:#7ebcff;
+	color:#337AC6;
 }
 p{
 	color: black;
@@ -144,3 +239,6 @@ margin-top: 40px;
 font-size: 20px;
 }
 /*parte3*/
+
+
+
